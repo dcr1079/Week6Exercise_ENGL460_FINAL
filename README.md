@@ -1,6 +1,6 @@
 # Week6Exercise_ENGL460
 
-![Virtual Reality Image](virtualmaster.png)
+![Virtual Reality Image](virtualreality.png)
 
 # Virtual Reality today
 
